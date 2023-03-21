@@ -3,9 +3,9 @@ package com.example.splashscreen
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class secondActivity : AppCompatActivity() {
+class SignUp : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_second)
+        setContentView(R.layout.activity_signup)
     }
 }
